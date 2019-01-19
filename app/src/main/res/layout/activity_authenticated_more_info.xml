@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AuthenticatedMoreInfoActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/moreInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="More info"
+        android:textAllCaps="true"
+        android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/productOwner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Product owner: Professora Andreia Santo" />
+
+        <TextView
+            android:id="@+id/scrumMaster"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Scrum Master: Professora Catarina Reis" />
+
+        <TextView
+            android:id="@+id/developmentTeam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DEVELOPMENT TEAM" />
+
+        <TextView
+            android:id="@+id/rute"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rute Leite Ferreira - 2150661@my.ipleiria.pt" />
+
+        <TextView
+            android:id="@+id/joao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="João Marques - 2161647@my.ipleiria.pt" />
+
+        <TextView
+            android:id="@+id/edgar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Edgar Ferreira - 2161713@my.ipleiria.pt" />
+
+        <TextView
+            android:id="@+id/ricardo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ricardo Sobral - 2160824@my.ipleiria.pt" />
+
+        <TextView
+            android:id="@+id/taes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tópicos Avançados de Engenharia de Software" />
+
+        <TextView
+            android:id="@+id/school"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ESTG - IPLEIRIA" />
+
+        <TextView
+            android:id="@+id/scholarYear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2018/19" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickCancel"
+        android:text="Cancel" />
+
+</LinearLayout>

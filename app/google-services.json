@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "169482119007",
+    "firebase_url": "https://taesprojeto-c32ab.firebaseio.com",
+    "project_id": "taesprojeto-c32ab",
+    "storage_bucket": "taesprojeto-c32ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169482119007:android:b3aeec8742498625",
+        "android_client_info": {
+          "package_name": "com.example.ecko.spots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169482119007-qrota6jjo0ik77gb4tkb02u967pvnvlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecko.spots",
+            "certificate_hash": "007da901ebe842a9ec661dcf32f8933b6931c017"
+          }
+        },
+        {
+          "client_id": "169482119007-aqdc88ecf3sd6446n2mtmjdav3i1f60c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecko.spots",
+            "certificate_hash": "e5e2f28cf34cef245b45c7acaf0e71ffa09c77b3"
+          }
+        },
+        {
+          "client_id": "169482119007-vf9pggjbuvjdab3ab78emt27u30qf7j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecko.spots",
+            "certificate_hash": "baa4bd2f7a2fb5393350ba8b75adf77366d9b6c9"
+          }
+        },
+        {
+          "client_id": "169482119007-tevkk5hi0dnhp2cjr1k5ml2el6m97kqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecko.spots",
+            "certificate_hash": "ba53738ba259c4e1b96ca03f96627c125a1e2aa0"
+          }
+        },
+        {
+          "client_id": "169482119007-ng06o82hjenom06es1n869d2hdka32bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMs5nmY0XmfgTbA52hwxXDiv1CaM0XOCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169482119007-ng06o82hjenom06es1n869d2hdka32bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
